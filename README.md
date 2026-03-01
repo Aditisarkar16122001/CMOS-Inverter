@@ -72,25 +72,13 @@ NMOS is responsible for pulling the voltage from high to low that's why it is ca
 ##  Observations
 
 - CMOS inverter shows rail-to-rail output.
-- High input impedance makes the circuit noise-sensitive.
 - Floating input leads to random switching.
-- Threshold mismatch between IRF540 and SFS9634 shifts switching point.
+
 - Demonstrates real device behavior beyond ideal CMOS models.
 
 ---
 
-##  Educational Significance
 
-This project demonstrates key CMOS concepts used in semiconductor design:
-
-- Threshold voltage effects  
-- NMOS vs PMOS mobility differences  
-- Gate capacitance and leakage  
-- Noise margins and floating node behavior  
-
-These principles are fundamental to **CMOS device modeling and standard cell design**.
-
----
 
 
 
