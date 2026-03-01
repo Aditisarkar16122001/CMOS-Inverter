@@ -43,6 +43,7 @@ Capacitor is not needed for this.
 
 ---
 ## Circuit
+![ckt](https://github.com/Aditisarkar16122001/CMOS-Inverter/blob/main/circuit.webp)
 
 - PMOS source → VDD  
 - NMOS source → GND  
