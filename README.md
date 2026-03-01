@@ -27,8 +27,9 @@ Unlike logic IC implementations, this setup exposes actual MOSFET characteristic
 | Breadboard | Circuit assembly |
 | 5 V Supply | Power source |
 
+
 ---
-## Circui:
+## Circuit
 
 - PMOS source → VDD  
 - NMOS source → GND  
