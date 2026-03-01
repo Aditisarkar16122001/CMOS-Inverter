@@ -49,7 +49,8 @@ When the input is left floating, the inverter may switch due to environmental no
 
 ---
 ## Images
-
+![fig1](https://github.com/Aditisarkar16122001/CMOS-Inverter/blob/main/Low%20to%20high.jpg)
+![fig2](
 ##  Observations
 
 - CMOS inverter shows rail-to-rail output.
