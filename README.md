@@ -59,7 +59,7 @@ Capacitor is not needed for this.
 | LOW | ON   | OFF  | HIGH | ON        |
 | HIGH| OFF  | ON   | LOW  | OFF       |
 
-When the input is left floating, the inverter may switch due to environmental noise and gate capacitance, causing LED flickering.
+NMOS is responsible for pulling the voltage from high to low that's why it is called "PULL DOWN DEVICE". And the PMOS is responsible for pulling the voltage up from low to high so it's known as "PULL UP DEVICE".
 
 ---
 ## Images
