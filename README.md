@@ -28,6 +28,19 @@ Unlike logic IC implementations, this setup exposes actual MOSFET characteristic
 | 5 V Supply | Power source |
 
 
+
+My Goal Was Logic Demonstration
+
+I wanted to show:
+
+- Inversion
+
+- LED indication
+
+- Switching behavior
+
+Capacitor is not needed for this.
+
 ---
 ## Circuit
 
